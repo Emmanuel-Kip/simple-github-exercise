@@ -10,3 +10,9 @@
 -PM
 -SWE
 2.Meshack Jackson
+Advanced Object Oriented Programming
+Web Development
+Calculus 2
+French 1
+Business System Analysis
+
