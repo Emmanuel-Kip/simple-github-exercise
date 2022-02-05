@@ -1,4 +1,6 @@
 # simple-github-exercise
+- This is an exercise in which I introduce a classmate to the basics of github.
+- The exercise involves writing the units we are taking in this readme file as shown below
 
 1.Emmanuel Kiptoo
 -Advanced Database Systems
